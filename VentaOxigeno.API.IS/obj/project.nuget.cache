@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "uY76n2GlKUUI9rcjWjHQnlk90MMaYm2Eta71+eWaLPCqfar0+Rwy6N3gIWETRARitbVWcnYEtKXPbEsBU0TJ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronald\\source\\repos\\BackEnd\\VentaOxigeno.API\\VentaOxigeno.API.IS\\VentaOxigeno.API.IS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronald\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\identityserver4\\4.1.1\\identityserver4.4.1.1.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\identityserver4.storage\\4.1.1\\identityserver4.storage.4.1.1.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.6.0\\microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.identitymodel.logging\\5.6.0\\microsoft.identitymodel.logging.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.6.0\\microsoft.identitymodel.protocols.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.6.0\\microsoft.identitymodel.protocols.openidconnect.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.6.0\\system.identitymodel.tokens.jwt.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ronald\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

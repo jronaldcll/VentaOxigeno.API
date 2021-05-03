@@ -1,0 +1,9 @@
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\bin\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.deps.json
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\bin\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.dll
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\bin\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.pdb
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.csprojAssemblyReference.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.AssemblyInfoInputs.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.AssemblyInfo.cs
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.dll
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBEntity\obj\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.pdb

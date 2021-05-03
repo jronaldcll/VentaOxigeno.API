@@ -1,0 +1,12 @@
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\bin\Debug\netcoreapp3.1\VentaOxigeno.DBContext.deps.json
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\bin\Debug\netcoreapp3.1\VentaOxigeno.DBContext.dll
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\bin\Debug\netcoreapp3.1\VentaOxigeno.DBContext.pdb
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\bin\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.dll
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\bin\Debug\netcoreapp3.1\VentaOxigeno.DBEntity.pdb
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.csprojAssemblyReference.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.AssemblyInfoInputs.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.AssemblyInfo.cs
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.csproj.CopyComplete
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.dll
+C:\Users\Ronald\source\repos\BackEnd\VentaOxigeno.API\VentaOxigeno.DBContext\obj\Debug\netcoreapp3.1\VentaOxigeno.DBContext.pdb
